@@ -1,14 +1,22 @@
 # Healthcare-Analysis-for-the-Period-2019-2024
 
-[Dashboard Preview]()
+![Dashboard Preview](https://github.com/Eedrizgit/Healthcare-Analysis-for-the-Period-2019-2024/blob/main/task%204%20dashboard%20(2).png)
 
-**Comprehensive Evaluation of Healthcare (2019–2024)**
+# **Comprehensive Evaluation of Healthcare (2019–2024)**
 
+# Overview
 This analysis primarily aims to assess healthcare trends from 2019 to 2024, with a focus on evaluating individual health status, identifying potential risks, and delivering personalized health recommendations. 
 
+# Objectives
 To identify health risks and improve overall performance, the establishment adopts a data-driven strategy to design targeted programs that address rising medical conditions across different age groups, blood types, and other key factors. This analysis aims to uncover potential causes of these conditions and explore effective methods to reduce their occurrence. It also investigates trends and patterns in patient admissions to support more informed healthcare planning.
 
-In-Analysis observations
+# Tools used
+Microsoft Excel - data cleaning, pivotcharts, dashboard creation using icons and slicers
+# Data
+Name, Gender, Blood type, Medical condition, Date of admission, Doctor, Hospital, Insurance provider, Age and Billing amount.
+
+This dataset holds significance for the health sector, providing valuable insights that organizations like the World Health Organization and other healthcare bodies can leverage to analyze annual cases of various medical conditions. It also reveals how these conditions correlate with factors such as age, type of hospital admission, billing amounts, and insurance providers. Such insights are essential for identifying trends and guiding strategies to reduce or prevent future occurrences.
+# In-Analysis observations
 
 1. Arthritis emerged as the most prevalent medical condition from 2019 to 2024, with a total of 9,308 cases.
 2. Asthma, on the other hand, recorded the fewest cases, amounting to 9,105.
@@ -17,14 +25,14 @@ In-Analysis observations
 5. In 2020, there were 11,285 cases recorded, marking the highest number during the period from 2019 to 2024.
 6. Individuals with blood group A- had the highest incidence of medical conditions.
 
-In analysis recommendations
+# In analysis recommendations
 
 1. I suggest the implementation of a dedicated health program focusing on arthritis awareness. The aim should be to educate people on its causes, with a particular emphasis on prevention and managing arthritis in its early stages. This proactive approach could significantly minimize the number of cases.
 2. Cigna, being the leading insurance provider, stands as a trusted and reliable option. People can confidently place their health insurance funds with them, knowing they’ll act when the need arises.
 3. A comprehensive program could also help reduce the funds people need to save for healthcare. By raising awareness about lifestyle changes to prevent conditions like diabetes, such as reducing alcohol intake — one of its key contributors — we can tackle the problem at its root.
 4. Individuals with blood group A- and those facing high-risk health issues should be encouraged to regularly strengthen their immune systems. This simple yet effective measure could help prevent or manage many common medical conditions.
 
-   Recommendation
+# Recommendation
 (Insights from 2019–2024)
 
 1. Based on the analysis, individuals with the A- blood group appear more prone to hypertension than cancer. Their immune system seems more capable of combating cancerous cells. However, they should avoid cholesterol-rich foods, as poor dietary habits may significantly increase their risk of hypertension. It’s important to educate them on lifestyle choices that could jeopardize their health.
@@ -51,7 +59,8 @@ d. Personalized healthcare approaches for preventing diabetes
 
 e. Lastly, individuals living with asthma should be educated on how to manage attacks effectively, to reduce the chances of hospitalization after each episode.
 
-[**Complete technical report on this Dataset**](https://medium.com/@akinteyeidris/healthcare-evaluation-for-the-years-2019-2024-96c7a4a34cb6)  
+# Technical Report
+[**click for the comprehensive report**](https://medium.com/@akinteyeidris/healthcare-evaluation-for-the-years-2019-2024-96c7a4a34cb6)  
 #####
 
 
