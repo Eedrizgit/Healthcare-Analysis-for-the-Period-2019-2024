@@ -1,6 +1,6 @@
 # Healthcare-Analysis-for-the-Period-2019-2024
 
-[Dashboard Preview](https://github.com/Eedrizgit/Healthcare-Analysis-for-the-Period-2019-2024/commit/5b19af5415300be052c7cadf7b9856d384c71b5a#diff-c3663bf384427303111ce50ff0b3ab20a63ece075d11213750fb05b64ce89eae)
+[Dashboard Preview]()
 
 **Comprehensive Evaluation of Healthcare (2019–2024)**
 
